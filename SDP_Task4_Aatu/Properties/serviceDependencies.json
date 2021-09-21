@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "SDP_Task4_AatuContext"
+    }
+  }
+}
